@@ -3,7 +3,7 @@
 //do not randomly choose every iteration
 //more likly find the number than the guess
 
-package Practiceprogram;
+package com.example.Practiceprogram;
 
 import java.util.Random;
 import java.util.Scanner;
